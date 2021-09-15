@@ -1,0 +1,56 @@
+body {
+  background-image: url("https://media.discordapp.net/attachments/700739955072303215/884983897715249232/in_the_forrest_by_7a12deviant_depi6d2-fullview.png?width=886&height=498");
+  background-size : cover;
+  }
+#title {
+  text-align: center;
+  color : orangered;
+  font-size : 40px;
+  text-shadow : 3px 3px black;
+}
+
+#link1 {
+  color : Orange;
+  text-shadow : 1px 1px black;
+}
+
+a:link, a:visited {
+  text-decoration : none;
+}
+
+#link2 {
+  color : Orange;
+  text-shadow : 1px 1px black;
+}
+
+.button {
+  border : none;
+  color : orangered;
+  text-align : center;
+  padding : 20px 25px;
+  text-decoration : none;
+  display : inline-block;
+  font-size : 30px;
+  margin : 4px 2px;
+  transition-duration: 1s;
+  cursor : cell;
+}
+
+.button {
+  background-color : transparent;
+  color : orangered;
+}
+
+.button {
+  border-radius : 12px;
+}
+
+.button:hover{
+background-color : sienna;
+color : orangered;
+cursor : cell;
+}
+
+html {
+  cursor : cell;
+}
